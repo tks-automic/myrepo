@@ -1,2 +1,0 @@
-This is test file
-I've just changed it from remote branch123456
